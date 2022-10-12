@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mgalde also known as Progessor Galde
-- 👀 I’m interested in Industrial Control System Security, Malware analysis and Network Protocols 
+- 👋 Hi, I’m @mgalde, also known as Professor Galde
+- 👀 I’m interested in Industrial Control System Security, Malware analysis, and Network Protocols 
 - 🌱 I’m currently learning Rust 
 - 💞️ I’m looking to collaborate on educational techniques and technical tools
 - 📫 How to reach me Send me a message on Twitter at https://twitter.com/michaelgalde

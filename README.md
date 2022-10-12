@@ -12,11 +12,11 @@
 
 
 
-<a href="https://binary-offensive.com">
+<a href="https://michaelgalde.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mgalde&show_icons=true&line_height=33&count_private=true&theme=vue-dark" alt="mgalde's GitHub Stats" />
 </a>
 
-<a href="https://binary-offensive.com">
+<a href="https://michaelgalde.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgalde&&hide=cmake&langs_count=5&line_height=35&theme=vue-dark&exclude_repo=cobalt-arsenal" />
 </a>
 

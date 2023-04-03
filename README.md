@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @mgalde, also known as Professor Galde
 - 👀 I’m interested in Industrial Control System Security, Malware analysis, and Network Protocols 
-- 🌱 I’m currently learning Rust 
+- 🌱 I’m currently Playing with developing C, C# and C++ 
 - 💞️ I’m looking to collaborate on educational techniques and technical tools
 - 📫 How to reach me Send me a message on Twitter at https://twitter.com/michaelgalde
 
